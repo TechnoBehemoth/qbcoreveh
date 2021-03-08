@@ -621,6 +621,23 @@ QBShared.Vehicles = {
 
 }
 
+QBShared.VehicleModels = {
+	
+[GetHashKey("205")] = {
+		["name"] = "205",
+		["brand"] = "Renault",
+		["model"] = "205",
+		["price"] = 8000,
+		["category"] = "compacts",
+		["hash"] = GetHashKey("205"),
+		["image"] = "https://vignette.wikia.nocookie.net/gtawiki/images/c/c0/Blista-GTAV-front.png",
+		["trunkspace"] = 100000,
+		["trunkslots"] = 80,
+		["shop"] = "pdm",
+	},
+	
+}
+
 QBShared.Gangs = {
 	["romario"] = {
 		label = "Thugs"
